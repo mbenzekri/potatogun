@@ -5,7 +5,7 @@ Ce potato gun ressemble plus à un fusil.
 
 Voici les élements:
 
-![pièces](mbenzekri.github.io/potatogun//pieces.jpg)
+![pièces](https://mbenzekri.github.io/potatogun//pieces.jpg)
 
 ## pièces :
 - pour la crosse: une planche pin : 60cm x 14cm (h: 25mm) 
