@@ -24,4 +24,5 @@ Voici le modèle terminé :
 ## La gachette
 <img src="gachette.jpg" alt="La gachette" width="200"/>
 
-![La gachette|small](https://mbenzekri.github.io/potatogun/gachette.jpg)
+
+## L'élastique
