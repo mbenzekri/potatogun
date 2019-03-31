@@ -22,4 +22,4 @@ Voici le modèle terminé :
 ![canon](https://mbenzekri.github.io/potatogun/canon.jpg)
 
 ## La gachette
-![La gachette](https://mbenzekri.github.io/potatogun/gachette.jpg)<!-- .element height="50%" width="50%" -->
+![La gachette](https://mbenzekri.github.io/potatogun/gachette.jpg =200x)
