@@ -1,11 +1,8 @@
+![pièces](./pieces.jpg)
 
 # Potato Gun tutorial (MARK I)
 L'objectif de ce tuto est de décrire la réalisation d'un potatogun imaginé pour mon fils (idée issue du visionnage d'Iron man 3).
 Ce potato gun ressemble d'avantage à un fusil.
-
-Voici les élements:
-
-![pièces](https://mbenzekri.github.io/potatogun/pieces.jpg)
 
 ## pièces :
 - pour la crosse: une planche pin : 60cm x 14cm (h: 25mm) 
