@@ -16,10 +16,12 @@ Je l'ai découpé dans une planche de pin, type planche de chantier ( L:60cm l:1
 puis poncé et enduite de cire teinté pour donner une couleur plus réaliste.
  
 Voici le modèle terminé :
-![crosse teinté](https://mbenzekri.github.io/potatogun/crosse2.jpg)
+![crosse teinté](./crosse2.jpg)
 
 ## Le canon
-![canon](https://mbenzekri.github.io/potatogun/canon.jpg)
+![canon](./canon.jpg)
 
 ## La gachette
+<img src="gachette.jpg" alt="La gachette" width="200"/>
+
 ![La gachette|small](https://mbenzekri.github.io/potatogun/gachette.jpg)
