@@ -14,7 +14,7 @@ Voici les élements:
 - pour le lanceur : une longueur d'environ 50cm l'élastique
 
 ## La crosse
-![crosse brute](https://mbenzekri.github.io/potatogun/crosse1.jpg)
+![crosse brute](./crosse1.jpg)
 Je l'ai découpé dans une planche de pin, type planche de chantier ( L:60cm l:14cm h: 25mm).
 puis poncé et enduite de cire teinté pour donner une couleur plus réaliste.
  
